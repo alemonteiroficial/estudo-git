@@ -23,7 +23,7 @@ Use o link do seu projeto criado em New Repository.
 
 Agora vamos subir os arquivos para Github. 
 
-Use o comando:
+Use o comando:<br>
 git add .
 para adicionar todos os arquivos do projeto. Crie um commit inicial com o comando:
 git commit -m "primeiro commit" 
